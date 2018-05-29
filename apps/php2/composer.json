@@ -1,0 +1,8 @@
+{
+  "name": "matks/deploy-test-apps-php2",
+  "license": "proprietary",
+  "type": "project",
+  "require": {
+    "silex/silex": "~2.0"
+  }
+}
